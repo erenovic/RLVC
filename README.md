@@ -2,7 +2,7 @@
 An unofficial implementation of Recurrent Learned Video Compression Architecture using PyTorch
 
 ### The model is a reimplementation of architecture designed by Yang et al. (2021) 
-For further details about the model and training, please refer to the the official project page:
+For further details about the model and training, please refer to the the official project page and [Github repository](https://github.com/RenYang-home/RLVC):
 > Ren Yang, Fabian Mentzer, Luc Van Gool and Radu Timofte, "Learning for Video Compression with Recurrent Auto-Encoder and Recurrent Probability Model", IEEE Journal of Selected Topics in Signal Processing (J-STSP), 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9288876)
 
 ```
