@@ -1,5 +1,5 @@
 # Recurrent Learned Video Compression (RLVC)
-An unofficial implementation of Recurrent Learned Video Compression Architecture
+An unofficial implementation of Recurrent Learned Video Compression Architecture using PyTorch
 
 ### The model is a reimplementation of architecture designed by Yang et al. (2021) 
 For further details about the model and training, please refer to the the official project page:
