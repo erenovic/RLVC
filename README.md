@@ -1,4 +1,4 @@
-# RLVC
+# Recurrent Learned Video Compression (RLVC)
 An unofficial implementation of Recurrent Learned Video Compression Architecture
 
 ### The model is a reimplementation of architecture designed by Yang et al. (2021) 
