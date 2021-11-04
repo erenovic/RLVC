@@ -17,4 +17,36 @@ The project page for the paper:
 }
 ```
 
+The training and the re-implementation has to be followed according to the specifications in the paper. The training code provided here is for the fine-tuning of the model at the end.
+
+For the key frame compression, the learned image compression model by Balle et al. (2018) is used. The implementation is taken from the ```compressai``` library:
+
+```
+@inproceedings{minnenbt18,
+  author    = {David Minnen and
+               Johannes Ball{\'{e}} and
+               George Toderici},
+  editor    = {Samy Bengio and
+               Hanna M. Wallach and
+               Hugo Larochelle and
+               Kristen Grauman and
+               Nicol{\`{o}} Cesa{-}Bianchi and
+               Roman Garnett},
+  title     = {Joint Autoregressive and Hierarchical Priors for Learned Image Compression},
+  booktitle = {Advances in Neural Information Processing Systems 31: Annual Conference
+               on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December
+               2018, Montr{\'{e}}al, Canada},
+  pages     = {10794--10803},
+  year      = {2018},
+}
+```
+```
+@article{begaint2020compressai,
+	title={CompressAI: a PyTorch library and evaluation platform for end-to-end compression research},
+	author={B{\'e}gaint, Jean and Racap{\'e}, Fabien and Feltman, Simon and Pushparaja, Akshay},
+	year={2020},
+	journal={arXiv preprint arXiv:2011.03029},
+}
+```
+
 
